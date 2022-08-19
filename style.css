@@ -5642,3 +5642,10 @@ pre {
 	    padding: 0;
 	}
 }
+
+
+.packages{
+    display: flex;
+    justify-content: space-around;
+    justify-items: stretch;
+}
